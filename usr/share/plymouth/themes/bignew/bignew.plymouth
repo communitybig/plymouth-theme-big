@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=bignew
+Description=loading Big animation
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/bignew/animation
+ScriptFile=/usr/share/plymouth/themes/bignew/animated-boot.script
