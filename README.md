@@ -3,7 +3,7 @@
 A custom Plymouth theme featuring an animated boot sequence.
 
 ## Preview
-https://github.com/seu-usuario/pkgbuild-template/assets/preview.mp4
+https://github.com/user-attachments/assets/d587d4c2-558a-4331-8633-a25055bc1c18
 
 ## Credits
 Designer: Rogério de Souza Santos <rog.gts@gmail.com>
